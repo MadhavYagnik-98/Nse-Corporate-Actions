@@ -1,0 +1,1 @@
+10908  2020-03-13 16:05:44,014 INFO main 77 ::: Config == {'log_path': '../cfg', 'logfilename_path': '../cfg/corporate_actions', 'binfolder_path': '../bin', 'requirements': '../libs/requirements.txt', 'Input_path': '../inputs/2018-20.csv', 'Input_path_ca': '../inputs/CA_LAST_24_MONTHS.csv'}
